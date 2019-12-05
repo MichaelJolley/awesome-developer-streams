@@ -57,6 +57,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## B
 - [Baggers](#baggers) - **streaming:**: GPU programming, Game Development, Common Lisp tutorials
+- [Bald. Bearded. Builder.](#bald-bearded-builder) - **streaming:** C#, JavaScript, .Net Core, IoT
 - [Ben Greenier](#ben-greenier) - **streaming:** Game Development, Unity3D, C#, Web Development, Node.js, JavaScript
 - [Benjamin Lannon](#benjamin-lannon) - **streaming:** Javascript, GitHub Actions, Gatsby, React
 - [Bobby Johnson](#bobby-johnson) - **streaming:** Node.js/Javascript, C#/dotnetcore, React, Docker, OSX, VSCode, Identity & Security, Full Stack Development
@@ -208,7 +209,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Micah Elizabeth Scott](#micah-elizabeth-scott-scanlime) - **streaming:** Reverse Engineering, Rust, C++, Hardware
 - [Michael Crump](#michael-crump) - **streaming:** Azure, Software Development, C#, .NET Core
 - [Michael Henderson](#michael-henderson-robedcoder--leadcoder) - **streaming:** Fullstack development
-- [Michael Jolley](#michael-jolley) - **streaming:** C#, JavaScript, .Net Core, IoT
+- [Michael Jolley](#bald-bearded-builder) - **streaming:** C#, JavaScript, .Net Core, IoT
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
 
 [(top)](#table-of-contents)
@@ -498,6 +499,20 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/TheBaggers)
 - [GitHub](https://github.com/cbaggers/)
 - [Youtube](https://www.youtube.com/channel/UCMV8p6Lb-bd6UZtTc_QD4zA)
+
+[(top)](#table-of-contents)
+
+---
+### Bald. Bearded. Builder.
+#### What the Bald Bearded Builder Streams
+- C#, JavaScript, .Net Core, IoT
+#### Streaming on:
+- [Twitch](https://twitch.tv/baldbeardedbuilder)
+- [YouTube](https://www.youtube.com/channel/UCn2FoDbv_veJB_UbrF93_jw)
+#### Links:
+- [Twitter](https://twitter.com/baldbeardbuild)
+- [GitHub](https://github.com/michaeljolley)
+- [Website](https://baldbeardedbuilder.com)
 
 [(top)](#table-of-contents)
 
@@ -1909,7 +1924,7 @@ Also known as MPJ from Fun Fun Function
 ---
 ---
 ## Michael Henderson (robedcoder / leadcoder)
-#### What Michael Jolley Streams
+#### What Michael Henderson Streams
 - Full stack development
 #### Streaming on:
 - [Twitch](https://twitch.tv/leadcoder)
@@ -1917,20 +1932,6 @@ Also known as MPJ from Fun Fun Function
 #### Links:
 - [GitHub](https://github.com/m-henderson)
 - [Instagram](https://instagram.com/robedcoder/)
-
-[(top)](#table-of-contents)
-
----
-### Michael Jolley
-#### What Michael Jolley Streams
-- C#, JavaScript, .Net Core, IoT
-#### Streaming on:
-- [Twitch](https://twitch.tv/themichaeljolley)
-- [YouTube](https://www.youtube.com/channel/UCn2FoDbv_veJB_UbrF93_jw)
-#### Links:
-- [Twitter](https://twitter.com/michaeljolley)
-- [GitHub](https://github.com/michaeljolley)
-- [Website](https://michaeljolley.com)
 
 [(top)](#table-of-contents)
 
